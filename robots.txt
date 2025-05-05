@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /search/
+Sitemap: https://ecostep.su/sitemap.xml
